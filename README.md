@@ -4,6 +4,7 @@ This is a handy Sketch stencil for those who want to rapidly generate beautiful 
 ![GitHub Logo](/assets/screenshot_showdemo.png)
 
 ## Features Highlight
+
 *Simple click and export, no extra work needded.*
 *Internationalization ready.*
 *Zoom and highlight.*
@@ -21,14 +22,17 @@ Right click on the placeholder image and select “Replace Image…”, this wil
 ### Internationalization
 
 Simply enable the lanuage you need and update the wording.
+
 ![GitHub Logo](/assets/howto_i18n.png)
 
 ### Zoom effect
 
 Duplicate the screenshot and move to “ZOOM” group, then zoom for better visual effect.
+
 ![GitHub Logo](/assets/howto_zoom.png)
 
 ### Export
 
 Clock “Export” button to export all the slices, you need to export separately for each language.
+
 ![GitHub Logo](/assets/howto_export.png)
