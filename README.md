@@ -5,11 +5,11 @@ This is a handy Sketch stencil for those who want to rapidly generate beautiful 
 
 ## Features Highlight
 
-*Simple click and export, no extra work needded.*
-*Internationalization ready.*
-*Zoom and highlight.*
-*Multiple background color choices.*
-*Compatible with 5.5 inch devices.*
+* *Simple click and export, no extra work needded.*
+* *Internationalization ready.*
+* *Zoom and highlight.*
+* *Multiple background color choices.*
+* *Compatible with 5.5 inch devices.*
 
 ## How To
 
