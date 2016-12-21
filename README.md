@@ -14,7 +14,7 @@ This is a handy Sketch stencil for those who want to rapidly generate beautiful 
 ## How To
 
 ### Replace placeholder with your own screenshots
-Right click on the placeholder image and select “Replace Image…”, this will keep the right size. Make sure to select a screenshot or image with a 1242 X 2208 pixel size.
+Right click on the placeholder image and select “Replace Image…”, this will keep the right size. Make sure you select a screenshot or image with a 1242 X 2208 pixel size.
 
 ![GitHub Logo](/assets/howto_replace_image.png)
 
